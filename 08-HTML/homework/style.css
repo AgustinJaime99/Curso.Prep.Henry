@@ -1,0 +1,33 @@
+<style>
+		body {
+		}
+
+		.divClass {
+			width:50%;  margin:0 auto;
+			display: flex;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			justify-content: center;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		#thirDiv {
+			height: 600px;
+			width: 500px;
+			border: thick double black;
+			background: bisque;
+			padding: 50px;
+			width:50%;  margin:0 auto;
+			display: flex;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			justify-content: center;
+		}
+
+		#spanId {
+			font-size: 18px;
+			margin: 50px;
+			width:50%   margin:0 auto;
+ 		}
+	</style>
